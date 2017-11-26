@@ -1,0 +1,11 @@
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Генератор случайных чисел\bin\Debug\Генератор случайных чисел.exe.config
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Генератор случайных чисел\bin\Debug\Генератор случайных чисел.exe
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Генератор случайных чисел\bin\Debug\Генератор случайных чисел.pdb
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Генератор случайных чисел\obj\Debug\Генератор случайных чисел.csprojResolveAssemblyReference.cache
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Генератор случайных чисел\obj\Debug\Генератор_случайных_чисел.Generator.resources
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Генератор случайных чисел\obj\Debug\Генератор_случайных_чисел.Properties.Resources.resources
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Генератор случайных чисел\obj\Debug\Генератор случайных чисел.csproj.GenerateResource.Cache
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Генератор случайных чисел\obj\Debug\Генератор случайных чисел.exe
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Генератор случайных чисел\obj\Debug\Генератор случайных чисел.pdb
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Генератор случайных чисел\bin\Debug\Distributions.dll
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Генератор случайных чисел\bin\Debug\Distributions.pdb

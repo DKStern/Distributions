@@ -1,0 +1,5 @@
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Distributions\bin\Debug\Distributions.dll
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Distributions\bin\Debug\Distributions.pdb
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Distributions\obj\Debug\Distributions.csprojResolveAssemblyReference.cache
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Distributions\obj\Debug\Distributions.dll
+C:\Users\VandenReich\Documents\Visual Studio 2017\Projects\Генератор случайных чисел\Distributions\obj\Debug\Distributions.pdb
